@@ -7,8 +7,17 @@ DockStation is developer-centric application to managing projects based on Docke
 **Planned features:**
 
 - [ ] Managing containers (CRUD)
-- [ ] Connecting to DockerHub 
+  - [ ] The creation of containers
+  - [ ] Deleting containers
+  - [ ] Configuration management of containers
+- [ ] Working DockerHub 
+  - [ ] Connecting to DockerHub
+  - [ ] Downloading images from DockerHub
+  - [ ] Uploading images to DockerHub
 - [ ] Collecting statistics (resource usage, processes)
+  - [ ] Collecting and displaying CPU usage
+  - [ ] Collecting and displaying CPU usage
+  - [ ] Collecting and displaying network usage
 - [ ] Displaying logs
 - [ ] Connecting to the console
 - [ ] Ssh connection to remote registers
