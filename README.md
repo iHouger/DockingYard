@@ -24,3 +24,4 @@ DockStation is developer-centric application to managing projects based on Docke
 - [ ] Working with dockercompose files
 - [ ] Creating and working with projects
 - [ ] Deploying projects on the server
+- [ ] Sync settings and projects between apps on different devices
